@@ -1,0 +1,1 @@
+https://github.com/andresriancho/enumerate-iam  ( add 157 line -     print(f"Testing {service_name}.{operation_name}()") #to print)
